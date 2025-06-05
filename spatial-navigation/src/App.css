@@ -1,0 +1,31 @@
+
+.focusring{
+  
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+:focus {
+  outline: none;
+}
+text{
+font-size: large;
+}
+frame {
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; */
+  display: flex;
+  /* flex-wrap: wrap; */
+  gap: 10px;
+}
+
+img {
+  border: 2px solid gray;
+  margin: 5px;
+}
+
+
